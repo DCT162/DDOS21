@@ -31,7 +31,7 @@ if [ $Patrik = 01 ] || [ $Patrik = 1 ]
 then
 sleep 2
 echo ""
-python2 $£¢€.py
+python2 ¥€¢£.py
 fi
 
 if [ $Patrik = 02 ] || [ $Patrik = 2 ]
